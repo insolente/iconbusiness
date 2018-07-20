@@ -1762,7 +1762,9 @@ body {
   color: #149dcc !important;
 }
 .cid-qYjraK2QPu {
-  background-image: url("../../../assets/images/desk-laptop-macbook-238118-2000x1341.jpg");
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/12121212121-1-2000x1333.jpg");
 }
 .cid-qYjraK2QPu h1 {
   color: #616161;
@@ -1802,6 +1804,7 @@ body {
 }
 .cid-qYjstAsFgl .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-qYjstAsFgl .card-wrapper {
   height: 100%;
@@ -1869,7 +1872,7 @@ body {
 .cid-qYjujEOPSy {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/mbr-1-1620x1080.jpg");
+  background-image: url("../../../assets/images/o6tshy0-2000x1333.jpg");
 }
 .cid-qYjujEOPSy .mbr-section-subtitle {
   color: #767676;
@@ -2002,46 +2005,92 @@ body {
   padding-bottom: 15px;
   background-image: url("../../../assets/images/thinkstockphotos-518310332-2000x1000.jpg");
 }
-.cid-qYjwDeMxbJ {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-qYnLPtQF8s {
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #149dcc;
 }
-.cid-qYjwDeMxbJ .counter-container {
-  color: #767676;
+.cid-qYnLPtQF8s h4 {
+  font-weight: 500;
+  color: #ffffff;
 }
-.cid-qYjwDeMxbJ .counter-container ul {
+.cid-qYnLPtQF8s p {
+  color: #ffffff;
+}
+.cid-qYnLPtQF8s .card {
+  margin-bottom: 2rem;
+}
+.cid-qYnLPtQF8s .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qYnLPtQF8s .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-qYnLPtQF8s .card-box {
+  padding-bottom: 2rem;
+}
+.cid-qYnLPtQF8s .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qYnLPtQF8s .card-box .mbr-text {
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qYnLPtQF8s .card-box .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qYnLPtQF8s .card-box .mbr-section-btn a {
+  margin-top: 1rem;
   margin-bottom: 0;
 }
-.cid-qYjwDeMxbJ .counter-container ul li {
-  margin-bottom: 1rem;
-  list-style: none;
+.cid-qYnMVRuHoe {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ff3366;
 }
-.cid-qYjwDeMxbJ .counter-container ul li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  padding-top: 3px;
-  content: '';
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 20px;
-  transition: all .2s;
+.cid-qYnMVRuHoe h4 {
+  font-weight: 500;
   color: #ffffff;
-  background: #ff3366;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  content: '✓';
 }
-.cid-qYjwDeMxbJ .mbr-text UL {
+.cid-qYnMVRuHoe p {
   color: #ffffff;
+}
+.cid-qYnMVRuHoe .card {
+  margin-bottom: 2rem;
+}
+.cid-qYnMVRuHoe .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qYnMVRuHoe .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-qYnMVRuHoe .card-box {
+  padding-bottom: 2rem;
+}
+.cid-qYnMVRuHoe .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qYnMVRuHoe .card-box .mbr-text {
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qYnMVRuHoe .card-box .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qYnMVRuHoe .card-box .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
 }
 .cid-qYjwTS2H7w {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/background3.jpg");
+  background-image: url("../../../assets/images/592-2000x1333.jpg");
 }
 .cid-qYjwTS2H7w .testimonials-container {
   margin: 0 auto;
@@ -2081,6 +2130,12 @@ body {
   .cid-qYjwTS2H7w .testimonials-caption {
     padding: 0 2rem 2rem 2rem !important;
   }
+}
+.cid-qYjwTS2H7w H2 {
+  color: #767676;
+}
+.cid-qYjwTS2H7w .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-qYjxgKHJFP {
   padding-top: 90px;
