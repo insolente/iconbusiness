@@ -1791,7 +1791,7 @@ body {
   background-color: #fff;
 }
 .cid-qYjstAsFgl .card-box {
-  background-color: #ffffff;
+  background-color: #149dcc;
   padding: 2rem;
 }
 .cid-qYjstAsFgl h4 {
@@ -1803,7 +1803,7 @@ body {
   text-align: left;
 }
 .cid-qYjstAsFgl .mbr-text {
-  color: #767676;
+  color: #ffffff;
   text-align: left;
 }
 .cid-qYjstAsFgl .card-wrapper {
@@ -1821,6 +1821,9 @@ body {
     max-width: 20%;
     padding: 15px;
   }
+}
+.cid-qYjstAsFgl .card-title {
+  color: #ffffff;
 }
 .cid-qYjtMfYuWZ {
   padding-top: 60px;
